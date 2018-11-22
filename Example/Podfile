@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HZFrame_Example' do
+  pod 'HZFrame', :path => '../'
+
+  target 'HZFrame_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

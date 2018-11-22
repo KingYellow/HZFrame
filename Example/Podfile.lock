@@ -1,0 +1,16 @@
+PODS:
+  - HZFrame (0.1.0)
+
+DEPENDENCIES:
+  - HZFrame (from `../`)
+
+EXTERNAL SOURCES:
+  HZFrame:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HZFrame: f4bf0840bf750a1a5aa22dfad64d3fce7fbd2243
+
+PODFILE CHECKSUM: b13827da05474d5893d41dd191d256c92bcb0c54
+
+COCOAPODS: 1.5.3
